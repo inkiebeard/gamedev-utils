@@ -1,0 +1,17 @@
+{
+	"name": "com.inkiebeard.gamedev.utils",
+	"version": "0.0.1",
+	"displayName":"Gamdev Utils by Inkie Beard",
+	"description": "A collection of boilerplate mechanics and basic utility scripts for rapid prototyping unity games.",
+	"unity": "2019.1",
+	"author": { 
+		"name" : "Aaron Toomey",
+	  "email" : "aaron@inkiebeard.codes",
+	  "url" : "https://inkiebeard.codes/"
+	},
+ "keywords": [
+    "scripts",
+    "utility",
+    "mechanics"
+  ]
+}
